@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jungin Kim 👋
 
-<!--
-**junginkim23/junginkim23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. Student at Korea University
 
-Here are some ideas to get you started:
+### 🔬 Research Interests
+- Reinforcement Learning
+- Multi-Agent Reinforcement Learning
+- World Models
+- Anomaly Detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Links
+[![Research](https://img.shields.io/badge/Research-Notion-green)](https://notion.so)
+[![CV](https://img.shields.io/badge/CV-PDF-blue)](https://example.com/cv.pdf)
