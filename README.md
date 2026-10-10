@@ -10,5 +10,4 @@ Ph.D. Student at Korea University
 - Anomaly Detection
 
 ### 🔗 Links
-[![Research](https://img.shields.io/badge/Research-Notion-green)](https://notion.so)
-[![CV](https://img.shields.io/badge/CV-PDF-blue)](https://example.com/cv.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) | [CV](https://example.com/cv.pdf) | [Email](mailto:your-email@korea.ac.kr)
