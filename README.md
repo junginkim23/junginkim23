@@ -4,8 +4,9 @@ Ph.D. Student at Korea University
 
 ### 🔬 Research Interests
 - Reinforcement Learning
-- Multi-Agent Reinforcement Learning
-- World Models
+  - Multi-Agent Reinforcement Learning
+  - Preference-Based Reinforcement Learning
+  - World Model
 - Anomaly Detection
 
 ### 🔗 Links
